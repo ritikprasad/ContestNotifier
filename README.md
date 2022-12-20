@@ -8,11 +8,13 @@ It fetches all the upcoming contest details from the Kontest api .Currently the 
 To install the dependencies, run
 
 npm install 
+  
 from inside this directory.
 
 To run the extension, first run
 
 npm run build
+
 This will compile the react code inside app/ to build/chrome & build/firefox respectievely.
 
 ### Installing in Chrome
