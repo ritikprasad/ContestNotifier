@@ -15,9 +15,23 @@ To run the extension, first run
 ```
 npm run build
 ```
-This will compile the react code inside `app/` to `build/chrome` & `build/firefox` respectievely.
+This will compile the react code inside `app/` to `build/chrome`.
 
 ### Installing in Chrome
- 1. Open `chrome://extensions` in a new tab
+ 1. Open extensions tab in Chrome, turn developer mode on
  2. Select `Load unpacked extensions`
  3. Load the `build/chrome` folder
+
+## Features
+
+- Visit contest.
+- Google Calendar Integration.
+- Subscription.
+
+## TechStack:
+ 1. HTML
+ 2. CSS
+ 3. Javascript
+ 4. React.JS
+ 5. Bootstrap
+ 6. Material UI
