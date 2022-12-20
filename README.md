@@ -4,6 +4,20 @@ This is a Google chrome extension which is a one stop solution for checking and 
 ## What it does?
 It fetches all the upcoming contest details from the Kontest api .Currently the time is in IST only. It Shows a list of live & upcoming coding contests taking place in various popular competitive programming websites with the facility to add them to your google calender. Currently shows updates from Codechef , HackerEarth , Hackerrank, Topcoder and Codeforces etc.
 
+## Features
+
+- Visit contest.
+- Google Calendar Integration.
+- Subscription.
+
+## TechStack:
+ 1. HTML
+ 2. CSS
+ 3. Javascript
+ 4. React.JS
+ 5. Bootstrap
+ 6. Material UI
+ 
 ## Building locally
 To install the dependencies, run
 ``` 
@@ -22,16 +36,4 @@ This will compile the react code inside `app/` to `build/chrome`.
  2. Select `Load unpacked extensions`
  3. Load the `build/chrome` folder
 
-## Features
 
-- Visit contest.
-- Google Calendar Integration.
-- Subscription.
-
-## TechStack:
- 1. HTML
- 2. CSS
- 3. Javascript
- 4. React.JS
- 5. Bootstrap
- 6. Material UI
