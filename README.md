@@ -1,7 +1,11 @@
 # ContestNotifier
 This is a Google chrome extension which is a one stop solution for checking and notifying you about all the upcoming contests in different categories.
 
-![2 (2)](https://user-images.githubusercontent.com/76156666/209067494-f7536028-eec0-43ac-a3d9-1af7ec8d132e.png)               ![3 (2)](https://user-images.githubusercontent.com/76156666/209067532-4aad04d9-cfec-4c4b-8494-cc237ae63a0a.png)
+![2 (2)](https://user-images.githubusercontent.com/76156666/209067494-f7536028-eec0-43ac-a3d9-1af7ec8d132e.png)    
+
+![3 (2)](https://user-images.githubusercontent.com/76156666/209067532-4aad04d9-cfec-4c4b-8494-cc237ae63a0a.png)
+
+![4 (2)](https://user-images.githubusercontent.com/76156666/209067981-d7d93ef7-1c73-4790-8df3-563bc4929537.png)
 
 
 
