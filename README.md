@@ -1,5 +1,8 @@
 # ContestNotifier
 This is a Google chrome extension which is a one stop solution for checking and notifying you about all the upcoming contests in different categories.
+![2 (2)](https://user-images.githubusercontent.com/76156666/209067494-f7536028-eec0-43ac-a3d9-1af7ec8d132e.png)               ![3 (2)](https://user-images.githubusercontent.com/76156666/209067532-4aad04d9-cfec-4c4b-8494-cc237ae63a0a.png)
+
+
 
 ## What it does?
 It fetches all the upcoming contest details from the Kontest api (https://www.kontests.net/api) .Currently the time is in IST only. It Shows a list of live & upcoming coding contests taking place in various popular competitive programming websites with the facility to add them to your google calender. Currently shows updates from Codechef , HackerEarth , Hackerrank, Topcoder and Codeforces etc.
